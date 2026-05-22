@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path 'C:\\\\BRRRRRRR\\\\INVITACIONES WEB\\\\MODELOS DESPLEGADOS\\\\xv\\\\xv-azul-marino-estrellada' -Recurse -Force)",
+      "Bash(Select-Object -Property FullName, Extension)",
+      "Bash(Sort-Object FullName)"
+    ]
+  }
+}
